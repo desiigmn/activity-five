@@ -19,7 +19,7 @@ let message = "My favorite actor is " + fullName.toUpperCase();
 // Append
 message += ", his best show is Silicon Valley.";
 
-// Log all variables to the console
+// Log all variables 
 console.log(favActorFirstName);
 console.log(favActorLastName);
 console.log(fullName);
